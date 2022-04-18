@@ -1,4 +1,4 @@
-# Working with Freddy
+# Working with [Freddy](https://www.linkedin.com/in/freddym/)
 I created this document to explain my expectations and views around work and working together and to help hold me accountable. Use this document as a door into my way to operate and understand my mental framework. Please, feel free to use this document to support your onboarding and our continued work relationship, do not hesitate to ask questions and talk openly about it. 
 
 ## How to use this document?
