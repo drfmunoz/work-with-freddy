@@ -71,8 +71,11 @@ I try to avoid large meetings unless there is a good reason for them to exist. I
 ## Performance
 I will provide you with feedback about your performance often and in actionable bites, usually during our 1:1s. My goal is for you never to be surprised if you are underperforming and to be appraised when you are overperforming. To make performance slightly more concrete, we will define a few personal objectives for your development and delivery (in the form of OKRs or SMART goals) and review these goals at the end of each quarter.
 
+## The brag book (re: Performance)
+Whether you are a manager or an individual contributor, I will ask you to keep a brag book. A brag book (or win book) is a document that inventory your accomplishments, when they happened, and other relevant details. I love brag books because they refresh our memory and remind me of our excellent work. If you do not have a brag book, please start one ASAP.
+
 ## Time off
-My policy is never to refuse a vacation, no matter what — given that the request follows the company policies. In most cases, I will need to be informed in advance (usually two weeks) when you go on a “planned” vacation that may disrupt our usual business (for example, when you leave for more than a week). Also, make sure to fill your request in our time-off reporting system.
+My policy is never to refuse a vacation, no matter what — given that the request follows the company policies. In most cases, I will need to be informed in advance (usually two weeks) when you go on a “planned” vacation that may disrupt our usual business (for example, when you leave for more than a week). I'm a big fan of shared vacation calendars; please put your time off there. Also, fill your request in our time-off reporting system (if we have any).
 
 ## Communication
 I’m what some people would refer to as old school, and I prefer email over other types of communication for non-urgent or time-sensitive matters. I try to reply promptly to emails that are somehow time-sensitive or require a decision. I’m also good at batching email replies, so if you do not get a response immediately, give me 24 hours to write back.
