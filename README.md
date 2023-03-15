@@ -26,9 +26,9 @@ I will sometimes assign you work items via email. Please tell me if you need mor
 If I delegate a task to you or your team, please record it somewhere, and be mindful that I will let you know if I need you to complete it ASAP. Otherwise, I would expect an ETA from you or your team.
 
 ## (my) Worktime
-I’m US EST-based, and I work from 8 AM-ish to 6 PM-ish. Sometimes I may start working earlier or finish later. I may be unresponsive outside of those hours, and I do not expect you to be available or communicate with me outside of your local working hours.
+I’m US EST-based, and I work from 9 AM-ish to 5 PM-ish. Sometimes I may start working earlier or finish later. I may be unresponsive outside of those hours, and I do not expect you to be available or communicate with me outside of your local working hours (I will try hard not to email or message during your off-work time).
 
-I work a bit on the weekends and unusual hours; this is my choice. I do not expect you to work on the weekend. If I send you a message and forget to schedule it, you can wait and reply until Monday. The weekend is your time, not mine or the company’s!
+I work a bit on the weekends and unusual hours; this is my choice. I do not expect you to work on the weekend or off-hours. If I send you a message and forget to schedule it, you can wait and reply until Monday or a reasonable time. The weekend is your time, not mine or the company’s!
 
 ## My principles
 
@@ -50,7 +50,7 @@ In general:
 * Feedback should happen as quickly as possible
 
 ## One on One (1:1)
-I have regular 1:1 with most people in my organization at least once a quarter. If you are my direct report, expect to receive a meeting invite for a 1:1 of at least 30 minutes.
+I have regular 1:1 with most people in my organization at least once a quarter. If you are my direct report, expect to receive a meeting invite for a 1:1 of at least 30 minutes (sometimes 45 min or 1 hour).
 
 To better structure our 1:1s, please come prepared with a discussion topic, candid feedback, questions, burning issues, etc. Remember, 1:1s are meetings primarily for you and your topics. We will always start with what you have in mind and move to my items. Also, our 1:1s are not status meetings unless you want to talk about statuses.
 
@@ -62,7 +62,7 @@ I will own our 1:1 invitation; there is nothing for you to do. If I have not set
 We’ll have a staff meeting with your peers and sometimes an extended team every week for 60 minutes no matter what. Unlike 1:1s, we have a shared document that captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting but issues of substance that affect the whole team.
 
 ## Meetings in general
-My workday orbits around meetings. My calendar is open to anyone, and you will rarely see a private meeting unless it is a personal appointment. If you have a question about a meeting on my calendar, ask me, there are no taboos.
+My workday orbits around meetings and my rhythm of business. My calendar is open to anyone, and you will rarely see a private meeting unless it is a personal appointment. If you have a question about a meeting on my calendar, ask me, there are no taboos.
 
 In general, I expect an agenda and a picture of success for meetings with a short document summarizing the topic for the meeting. If you send me the document reasonably in advance, I will read it before the meeting and come prepared with questions and ask them in the document.
 
@@ -85,5 +85,5 @@ Some nits: I like documents with 10/11 pt font. 12pt documents push a nerve in m
 I’m human, and I will drop the ball from time to time. If you notice me dropping the ball, please let me know ASAP. 
 
 ## Technical
-Sometimes, I will look at your team’s code and design; this is not a bad sign. I like to know what my teams are doing and why. And from time to time, I will request a full architectural review of what your teams are building, the principles and patterns in them, and the challenges associated with it.
+Sometimes, I will look at your team’s code and design; this is not a bad sign — I live to dive deep into the technical details, poke holes, and understand the rationale behind our choices. I like to know what my teams are doing and why. And from time to time, I will request a full architectural review of what your teams are building, the principles and patterns in them, and the challenges associated with it. 
 
