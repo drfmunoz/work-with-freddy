@@ -30,11 +30,15 @@ I’m US EST-based, and I work from 9 AM-ish to 5 PM-ish. Sometimes I may start 
 
 I work a bit on the weekends and unusual hours; this is my choice. I do not expect you to work on the weekend or off-hours. If I send you a message and forget to schedule it, you can wait and reply until Monday or a reasonable time. The weekend is your time, not mine or the company’s!
 
-## My principles
+## My principles and values
 
-* Small teams, significant impact: I believe that small teams of competent individuals working in synchrony can produce incredible results that lead to incommensurable impact. I do not need a big team or a big organization. I need a small team of world-class talent who can deliver fast when motivated and with clear objectives.
-* Bias for action: I believe that doing and producing a result is 90% of any endeavor. I value people that can not only ideate but also jump to action.
-* I value ownership, autonomy, and judgment. You will get all the freedom you need to thrive in exchange: I’m not a micromanager, I won’t be on top of everything you do, and I expect to answer critical strategic questions. I expect you to figure out the tactical things, be autonomous, and operate with your best judgment.
+* Servant Leadership: Leaders serve their teams, not the other way around. They listen carefully and act with empathy in the best interest of their teams and company.
+* Small teams can make a significant impact: I believe that small teams of competent individuals working in synchrony can produce incredible results that lead to incommensurable impact. I do not need a big team or a big organization. I need a small team of world-class talent who can deliver fast when motivated and with clear objectives.
+* Bias for action is 90% of the work: Doing and producing a result is 90% of any endeavor. I value people that can not only ideate but also jump to action.
+* Dreaming big and starting small: Dreaming big gives us a reason to be excited, but there of a journey to getting there, and it starts small. Iterating rather than doing big-bang deliveries increases the chances of getting to that dream.
+* Working backward and making data-driven decisions: Working backward is one of the best ways of generating outcomes, clearly envisioning a goal, and tracing a path to it. When paired with data-driven decision-making, it yields the best results.
+* Performance measured in outcomes, not raw output: The ultimate goal of any organization is producing outcomes, be it for the customer, the patrons, the stakeholders, etc. High-performance individuals and teams focus on outcomes over intermediate output. For example, it is more important that engineers deliver features than the number of lines of code they write.
+* I value ownership, autonomy, and judgment: You will get all the freedom you need to thrive in exchange: I’m not a micromanager, I won’t be on top of everything you do, and I expect to answer critical strategic questions. I expect you to figure out the tactical things, be autonomous, and operate with your best judgment.
 * I do not expect perfection, but I expect polishness: Everything can improve all the time. Documents, code, and architectures can improve continually given enough time. I do not expect that. Instead, I expect the basic questions to have answers, documents to be spellchecked, diagrams to be clean, and code to be understandable and clear.
 * I expect leaders (managers and ICs) to step up and fill the gap, drive change, and be proactive: Leaders come from everywhere, and anyone can become a leader. I expect people in my organization to take action when they see gaps and own their resolution. I expect leaders to ask hard questions and work on finding answers to those questions. 
 
